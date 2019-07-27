@@ -14,6 +14,8 @@ I'm using codewars katas as a way to improve my code writing and programming log
 
 ### 8KYU
 1. Find numbers which are divisible by given number
+2. Century from year
+3. get character from ASCII Value
 
 
 
