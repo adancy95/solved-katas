@@ -19,6 +19,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 2. Century from year
 3. get character from ASCII Value
 4. Count by X
+5. Opposite number
 
 
 
