@@ -13,6 +13,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 1. Average Array
 2. Get the Middle Character
 3. Find all Pairs
+4. String ends with?
 
 ### 8KYU
 1. Find numbers which are divisible by given number
