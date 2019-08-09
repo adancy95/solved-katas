@@ -14,6 +14,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 2. Get the Middle Character
 3. Find all Pairs
 4. String ends with?
+5. You're a square
 
 ### 8KYU
 1. Find numbers which are divisible by given number
