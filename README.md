@@ -4,6 +4,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 ### 5KYU
 1. Directions Reductions
 2. Scramblies
+3. Calculating with functions
 
 ### 6KYU
 1. Roman Numerals Encoder
