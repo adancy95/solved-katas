@@ -23,6 +23,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 3. get character from ASCII Value
 4. Count by X
 5. Opposite number
+6. Count the monkeys
 
 
 
