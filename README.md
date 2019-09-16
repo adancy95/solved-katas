@@ -25,6 +25,8 @@ I'm using codewars katas as a way to improve my code writing and programming log
 5. Opposite number
 6. Count the monkeys
 7. Simple multiplication
+8. Incorrect division method [Python]
+
 
 
 
