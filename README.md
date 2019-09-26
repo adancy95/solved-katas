@@ -8,7 +8,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 
 ### 6KYU
 1. Roman Numerals Encoder
-2. Who likes it?
+2. Who likes it? [JS]
 
 
 ### 7KYU
