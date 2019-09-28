@@ -10,11 +10,18 @@ function stringTransformer(str) {
   let stringArr = str.split("");
   console.log(stringArr)
   let convertedCase = stringArr.map(character => {
-    if (character == character.toLowerCase()){
-      return character.toUpperCase()
-    }else{
-      return character.toLowerCase()
-    }
+
+
+    // if (character == character.toLowerCase()){
+    //   return character.toUpperCase()
+    // }
+    // else {
+    //   return character.toLowerCase()
+    // }
+
+    return character == character.toLowerCase() ? character.toUpperCase() : character.toLowerCase()
+    
+  
   })
 
 splitStr = convertedCase.join("").split(" ").reverse()
