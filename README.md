@@ -30,6 +30,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 8. Incorrect division method [Python]
 9. Convert a Number to a String!
 10. Remove String Spaces
+11. 101 Dalmatians - squash the bugs, not the dogs!
 
 
 
