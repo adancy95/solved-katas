@@ -34,6 +34,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 10. Remove String Spaces
 11. 101 Dalmatians - squash the bugs, not the dogs!
 12. Multiply
+13. Broken Counter
 
 
 
