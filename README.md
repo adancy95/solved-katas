@@ -24,6 +24,9 @@ I'm using codewars katas as a way to improve my code writing and programming log
 5. You're a square
 6. getNames()
 7. Odd or Even?
+8. Breaking chocolate problem
+9. Maximum Multiple
+
 
 ### 8KYU
 1. Find numbers which are divisible by given number
@@ -39,6 +42,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 11. 101 Dalmatians - squash the bugs, not the dogs!
 12. Multiply
 13. Broken Counter
+14. Can we divide it?
 
 
 
