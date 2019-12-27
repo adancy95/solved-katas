@@ -14,6 +14,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 3. String transformer
 4. Multiples of 3 or 5
 5. Arr.diff
+6. Your order, please
 
 
 ### 7KYU
