@@ -27,6 +27,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 7. Odd or Even?
 8. Breaking chocolate problem
 9. Maximum Multiple
+10. Square Every Digit
 
 
 ### 8KYU
