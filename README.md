@@ -28,6 +28,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 8. Breaking chocolate problem
 9. Maximum Multiple
 10. Square Every Digit
+11. Sum of angles
 
 
 ### 8KYU
@@ -45,6 +46,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 12. Multiply
 13. Broken Counter
 14. Can we divide it?
+15. Reversed String
 
 
 
