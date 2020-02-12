@@ -30,6 +30,7 @@ I'm using codewars katas as a way to improve my code writing and programming log
 10. Square Every Digit
 11. Sum of angles
 12. Driving School Series #1
+13. Help Bob count letters and digits.
 
 
 ### 8KYU
